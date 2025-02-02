@@ -18,7 +18,7 @@ a[target="_blank"] {
     color: red;
 }
 
-p:last-of-type:hover {
+body > p:last-of-type:hover {
     font-style: italic;
 }
 
